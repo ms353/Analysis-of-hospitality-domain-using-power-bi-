@@ -1,5 +1,5 @@
 # Analysis-of-hospitality-domain-using-power-bi-
-
+LINK DASHBOARD:https://app.powerbi.com/view?r=eyJrIjoiMWI1OGJmZWItZTRjYi00YWNjLTgzZmEtZDQzNzdkMmE4M2NhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 Business problem:
 AtliQ Grands is the proud owner of numerous opulent hotels throughout India. Yet, AtliQ Grands finds itself experiencing a decline in both market share and revenue within the luxurious/business hotel sector. I, as a data analyst, figure out the key problem of declining revenue using data analytics.
